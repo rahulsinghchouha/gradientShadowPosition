@@ -1,0 +1,18 @@
+.box{
+    border: 10px solid rgb(162, 32, 32);
+    padding: 100px;
+    font-size: 50px;
+    margin:15px;
+    height: 30px;
+    /* background-image: linear-gradient(red,black,blue,white);
+    background-image: linear-gradient(red,black,blue,white);
+    background-image: linear-gradient(to left,red,black,blue,white);
+    background-image: linear-gradient(to top,red,black,blue,white);
+    background-image: linear-gradient(to top,red,black,blue,white);
+    background-image: linear-gradient(to top right,red,black,blue,white);
+    background-image: linear-gradient(to bottom up,red,black,blue,white);
+    background-image: linear-gradient(45deg,red,black,blue,white);
+    background-image: linear-gradient(rgba(100, 87, 255, 1),rgba(34,167,87,0),rgba(56,98,235,0)); 
+    */
+
+}

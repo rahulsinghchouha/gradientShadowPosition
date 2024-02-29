@@ -1,0 +1,7 @@
+.dim{
+/* overflow: scroll;  */
+border:1px solid black;
+/*max-height:200px;*/
+min-width:250px;
+min-height: 250;
+}

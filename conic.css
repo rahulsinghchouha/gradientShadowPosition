@@ -1,0 +1,7 @@
+.conicdiv{
+    border: 5px solid red;
+    height: 500px;
+    width: 880px;
+    background-image: conic-gradient(red,yellow,green,blue,black);
+    background-image: conic-gradient(red 45%,yellow 56%,green 40%,blue,black);
+}

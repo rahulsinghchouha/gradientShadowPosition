@@ -1,0 +1,7 @@
+.mydiv{
+    border: 1px solid black;
+    padding: 60px;
+    height:100px;
+    width: 100px;
+    background-image:radial-gradient(circle,yellow 5%,red  50%,black 60%);
+}

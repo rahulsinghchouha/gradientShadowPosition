@@ -1,0 +1,16 @@
+.tect{
+    margin:4px;
+    position: relative;
+    border: 1px solid;
+max-height: 200px;
+    max-width: 250px;
+    }
+#imaa{
+    height: 250px;
+    width: 250px;
+}
+.name{
+    position: absolute;
+     top: 1px; 
+    left:50px;
+}
